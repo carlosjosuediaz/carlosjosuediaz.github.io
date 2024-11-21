@@ -4,7 +4,7 @@
 
 ### Descriptions 
 
-[Project 1: Adventure Game](/pdf/test)
+[Project 1: Adventure Game](/pdf/test.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
