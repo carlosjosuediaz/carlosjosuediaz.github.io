@@ -24,6 +24,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 6: Funny](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 ### P5.JS
 
 - [Project 1: Mimir's Riddle](https://editor.p5js.org/diazcarlosjosue1/sketches/7nj5NYzFX)
@@ -31,6 +35,7 @@
 - [Project 3: Snow Way Josué](https://editor.p5js.org/diazcarlosjosue1/sketches/530S6ccoe)
 - [Project 4: Ever More](https://editor.p5js.org/diazcarlosjosue1/sketches/sUbnlRmGv)
 - [Project 5: Symbio-so](https://editor.p5js.org/diazcarlosjosue1/sketches/MdkZqLZAj)
+- [Project 6: AOtober](https://editor.p5js.org/diazcarlosjosue1/sketches/6MBW3oyze)
 
 ---
 
