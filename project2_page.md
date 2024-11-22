@@ -4,7 +4,7 @@
 
 
 
-<img src="images/way.jpg?raw=true"/>
+<img src="images/rip.jpg?raw=true"/>
 
 
 
