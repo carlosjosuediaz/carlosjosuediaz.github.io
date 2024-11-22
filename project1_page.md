@@ -1,6 +1,6 @@
 ## Mimir's Riddle
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For the first project I made had to be an adventurous game and I thought what can be more of an adventurous game than riddles. So, I made a small game where the player must go through doors to answer the riddle which is “There are three doors before you. One contains a pit of spikes, another a dragon, and the last one a pair of lions that have not been fed in weeks. Which door do you open?” I heard this when I was playing the game “God of War Ragnarök” from the character named Mimir. Want to know the answer play the game.
 
 
 
