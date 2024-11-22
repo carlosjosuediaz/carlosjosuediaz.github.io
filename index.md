@@ -5,27 +5,27 @@
 ### Descriptions 
 
 [Project 1: Adventure Game](project1_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Doors.jpeg?raw=true"/>
 
 ---
 [Project 2: Interactive Experience](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Water.jpeg?raw=true"/>
 
 ---
 [Project 3: 3D](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Snow.jpeg?raw=true"/>
 
 ---
 [Project 4: External](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Bird.jpeg?raw=true"/>
 
 ---
 [Project 5: Personal](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/UFO.jpeg?raw=true"/>
 
 ---
 [Project 6: Funny](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Orange.jpeg?raw=true"/>
 
 ---
 ### P5.JS
