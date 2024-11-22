@@ -4,7 +4,7 @@
 
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/alien.jpg?raw=true"/>
 
 
 
