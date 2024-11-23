@@ -1,7 +1,6 @@
 ## AOtober
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+This one was of the first code I made that looked good and finished that I did when learning how to use codes in p5.js but also add images, music, and sounds. Since it was at the time October and near Halloween, I thought I do a scary theme using my new skills. I went with “Annoying Orange Shocktober 2024” to give a surprise in my code when telling a joke. If you would like to hear it, click the link below.
 
 
 <img src="images/ao.jpg?raw=true"/>
