@@ -1,7 +1,6 @@
 ## Snow Way Josué
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+For this 3D project I started making a snow globe with a particle effect and I used an A-frame that had a 3D world with a forest of trees in it. I replaced the trees with Christmas ones and ground with snow. After that was set, I placed the snow globe in the center of it all.
 
 
 <img src="images/way.jpg?raw=true"/>
