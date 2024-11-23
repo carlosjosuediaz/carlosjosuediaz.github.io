@@ -3,7 +3,7 @@
 This project was a personal one that I did just to see if I could do it. It all started when
 
 
-<img src="images/alien.jpg?raw=true"/>
+<img src="images/aliens.jpg?raw=true"/>
 
 
 
